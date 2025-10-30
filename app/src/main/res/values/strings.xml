@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FirstJavaAndroidApp</string>
+    <string name="button_sting">Button</string>
 </resources>
